@@ -1,2 +1,5 @@
-vappsavpn01-int-internal.das
+
 anthem.service-now.com
+vappsavpn01-int-internal.das
+lyncdiscoverinternal.wellpoint.com
+lyncdiscover.wellpoint.com

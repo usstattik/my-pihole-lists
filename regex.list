@@ -1,4 +1,5 @@
-(^|\.)lync\.com$
+
 (^|\.)internal\.das$
+(^|\.)lync\.com$
+(^|\.)us\.ad\.wellpoint\.com$
 (^|\.)corp\.agp\.ads$
-(^|\.)ad\.wellpoint\.com$
