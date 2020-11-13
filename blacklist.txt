@@ -2,3 +2,4 @@ vappsavpn01-int-internal.das
 anthem.service-now.com
 lyncdiscover.wellpoint.com
 lyncdiscoverinternal.wellpoint.com
+ocsp.apple.com
