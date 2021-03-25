@@ -55,3 +55,4 @@ www.channel3000.com
 www.history.com
 mandrillapp.com
 cdn.appdynamics.com
+www.boxofficemojo.com
